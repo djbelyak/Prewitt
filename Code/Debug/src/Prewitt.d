@@ -1,3 +1,1 @@
-src/Prewitt.d: ../src/Prewitt.c ../src/bitmap.h
-
-../src/bitmap.h:
+src/Prewitt.d: ../src/Prewitt.cpp
